@@ -14,6 +14,7 @@
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
+  * [Deployment]
   * [Image](#image)
   
   # Installation
@@ -38,7 +39,15 @@
   
   # Questions
   
-  If you have any questions about the repo, open an issue or contact santy520 directly sspalacio20@gmail.com.
+    If you have any questions about the repo, open an issue or contact:
+
+   Github: [santy520](https://github.com/Santy520)
+   
+   Email: sspalacio20@gmail.com
+
+  # Deployment
+
+  Click [Here](https://text-editor-app-bk3h.onrender.com/) for deployed application on Render
 
   # Image
 
