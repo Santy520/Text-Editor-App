@@ -42,5 +42,5 @@
 
   # Image
 
-  ![Screen Shot](../Assets/Screenshot%202024-06-08%20at%209.32.57 PM.png)
+  ![Screen Shot](./Assets/Screenshot%202024-06-09%20at%2012.15.09 AM.png)
   
