@@ -1,3 +1,4 @@
+
 {
   "name": "JATE",
   "version": "1.0.0",
@@ -6,8 +7,8 @@
   "scripts": {
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
     "start": "node server/server.js --ignore client",
-    "server": "cd server nodemon server.js --ignore client",
-    "build": "npm run build",
+    "server": "cd server && nodemon server.js --ignore client",
+    "build": "cd client && npm run build",
     "install": "cd server && npm i && cd ../client && npm i",
     "client": "cd client && npm start"
   },
